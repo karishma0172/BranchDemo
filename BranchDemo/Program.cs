@@ -7,6 +7,7 @@ namespace BranchDemo
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Master Branch Created");
         }
     }
 }
